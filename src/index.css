@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  --base-100: "";
+  --base-200: "";
+  --base-300: "";
+  --base-contetn: "";
+  --base-primary: "";
+  --base-secondary: "";
+  --base-accent: "";
+}
